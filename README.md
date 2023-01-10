@@ -6,7 +6,7 @@
  
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>"Hello Microverse"</b></h3>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 - [📖 About the Project](#A-program-for-greeting-users)
   - [🛠 Built With](#built-with-HMTL-CSS)
-    - [Tech Stack](#tech-stack)
+    - [Tech Stack](#HTML-CSS)
     - [Key Features](#Header)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
@@ -38,13 +38,13 @@
 
 # 📖 [Hello-Microverse] <a name="A-program-for-greeting-users"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Hello-Microverse]** is a program intended to greet users.
 
 ## 🛠 Built With <a name="HTML-CSS"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="HTML-CSS"></a>
 
 
 
@@ -71,30 +71,18 @@
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
+### Key Features <a name="key-features"></
 
 - **[Header]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -104,11 +92,10 @@ In order to run this project you need:
 
 <!--
 Example command:
+Clone the this repository into your local repo, instructions on how to do that are listed below.
+Open the index.html file with a browser, once you double click on the file it will open.
 
-```sh
- gem install rails
-```
- -->
+--->
 
 ### Setup
 
@@ -160,25 +147,11 @@ Example command:
 ```
 --->
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -208,7 +181,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Leeoasis/Hello-Microverse/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,9 +189,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,9 +197,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,7 +205,6 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
@@ -250,10 +218,8 @@ I would like to thank...
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="License.md"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
